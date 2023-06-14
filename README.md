@@ -28,6 +28,10 @@ This is the Main Repository for our Tech Skillz Academy Organization
 > 1. Python Flask Crash Course to create Web API
 > 1. GoLang Crash Course to create Web API
 > 1. Kubernetes Crash Course
+> 1. Data Analytics Crash Course
+> 1. AI/ML Crash Course
+> 1. Alerts and Monitoring Crash Course
+> 1. Observability Crash Course
 > 1. Microservices Full Length Series
 > 1. Deployment to Azure and AWS - Multi Cloud
 > 1. And more...
