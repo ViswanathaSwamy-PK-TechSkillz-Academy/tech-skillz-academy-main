@@ -44,11 +44,11 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ## C# Crash Course
 
-> 1. To be decided
+> 1. Please refer the [**`documentation`**](./documentation/a2_csharp_crash_course)
 
 ## C# Object Oriented Programming Crash Course
 
-> 1. To be decided
+> 1. Please refer the [**`documentation`**](./documentation/a3_csharp_oop_crash_course)
 
 ## Data Access using ADO.NET Crash Course
 
