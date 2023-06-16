@@ -1,6 +1,6 @@
 # Techskillz Academy main
 
-This is the Main Repository for our Tech Skillz Academy Organization
+This is the Main Repository for our Tech Skillz Academy Organization. This is the place where we will be adding all the content for our Tech Skillz Academy.
 
 ## Agenda
 
