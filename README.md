@@ -4,8 +4,8 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ## Agenda
 
-> 1. Setting up Development Environment - [**On Going**]
-> 1. C# Crash Course - [**Progress**]
+> 1. Pre-requisites and Setting up Development Environment - [**On Going**]
+> 1. C# Crash Course in .NET 6/7/8 - [**Progress**]
 > 1. C# Object Oriented Programming Crash Course
 > 1. Data Access using ADO.NET Crash Course
 > 1. Data Access using Dapper Crash Course
@@ -38,9 +38,9 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ---
 
-## Setting up Development Environment
+## Pre-requisites and Setting up Development Environment
 
-> 1. To be decided
+> 1. Please refer the [**`documentation`**](./documentation/a1_prerequisites_setup)
 
 ## C# Crash Course
 
