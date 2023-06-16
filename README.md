@@ -4,7 +4,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ## Agenda
 
-> 1. Pre-requisites and Setting up Development Environment - [**On Going**]
+> 1. Pre-requisites and Setting up Development Environment - [**Progress**]
 > 1. C# Crash Course in .NET 6/7/8 - [**Progress**]
 > 1. C# Object Oriented Programming Crash Course
 > 1. Data Access using ADO.NET Crash Course
