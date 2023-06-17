@@ -1,28 +1,21 @@
 # Techskillz Academy main
 
-This is the Main Repository for our Tech Skillz Academy Organization. This is the place where we will be adding all the content for our Tech Skillz Academy.
+This is the Main Repository for our Tech Skillz Academy Organization
 
 ## Agenda
 
-> 1. Pre-requisites and Setting up Development Environment - [**Progress**]
-> 1. C# Crash Course in .NET 6/7/8 - [**Progress**]
+> 1. Setting up Development Environment - [**On Going**]
+> 1. C# Crash Course - [**Progress**]
 > 1. C# Object Oriented Programming Crash Course
 > 1. Data Access using ADO.NET Crash Course
 > 1. Data Access using Dapper Crash Course
 > 1. EF Core Crash Course
 > 1. Minimal API Crash Course
-> 1. Just enough PowerShell/az cli/shell scripting - Crash Course
-> 1. Polyglot Persistence Crash Course [MS SQL Server, CosmosDB, My SQL, PostgreSQL, MongoDB, Redis, DynamoDB, Firebase, SQLite, H2]
-> 1. ARM/Biceps/Terraform and IaC
-> 1. Just enough **Azure** for `Minimal API` deployment - Crash Course
-> 1. Just enough GitHub Actions for `Minimal API` deployment deployment - Crash Course
-> 1. Just enough **AWS** for `Minimal API` deployment - Crash Course
+> 1. Just enough Azure for deployment Crash Course
+> 1. Just enough GitHub Actions for deployment Crash Course
 > 1. Docker Crash Course
 > 1. Docker Compose Crash Course
-> 1. SOLID Principles Crash Course
-> 1. Design Patterns Crash Course
 > 1. Web API Crash Course
-> 1. gRPC Crash Course
 > 1. ASP.NET Core MVC/Razor Pages Crash Course
 > 1. Blazor Server Crash Course
 > 1. Blazor WebAssembly Crash Course
@@ -30,15 +23,11 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Angular 16 Crash Course
 > 1. ReactJS 18 Crash Course
 > 1. VueJS 3 Crash Course
-> 1. Creating our own Identity System for Single Sign On
 > 1. NodeJS Crash Course to create Web API
 > 1. Java Spring Boot Crash Course to create Web API
 > 1. Python Flask Crash Course to create Web API
 > 1. GoLang Crash Course to create Web API
 > 1. Kubernetes Crash Course
-> 1. Cache-Aside Pattern with Redis
-> 1. Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
-> 1. Asynchronous communication between microservices using RabbitMQ, Mass Transit, Azure Service Bus, AWS SQS
 > 1. Data Analytics Crash Course
 > 1. AI/ML Crash Course
 > 1. Alerts and Monitoring Crash Course
@@ -49,13 +38,13 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ---
 
-## 1. Pre-requisites and Setting up Development Environment
+## Setting up Development Environment
 
-> 1. Please refer the [**`documentation`**](./documentation/a1_prerequisites_setup)
+> 1. To be decided
 
-## 2. C# Crash Course
+## C# Crash Course
 
-> 1. Please refer the [**`documentation`**](./documentation/a2_csharp_crash_course)
+> 1. To be decided
 
 ## C# Object Oriented Programming Crash Course
 
@@ -77,15 +66,11 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 > 1. To be decided
 
-## Just enough **Azure** for `Minimal API` deployment - Crash Course
+## Just enough Azure for deployment Crash Course
 
 > 1. To be decided
 
-## Just enough GitHub Actions for `Minimal API` deployment deployment - Crash Course
-
-> 1. To be decided
-
-## Just enough **AWS** for `Minimal API` deployment - Crash Course
+## Just enough GitHub Actions for deployment Crash Course
 
 > 1. To be decided
 
@@ -94,14 +79,6 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. To be decided
 
 ## Docker Compose Crash Course
-
-> 1. To be decided
-
-## SOLID Principles Crash Course
-
-> 1. To be decided
-
-## Design Patterns Crash Course
 
 > 1. To be decided
 
