@@ -1,19 +1,11 @@
-# Pre-requisites and Setup
+# C# Crash Course
 
-## Date: XX-XXX-2023
+This is a crash course on C# programming language. This course is designed for people who have some programming experience and want to learn C#.
 
 ---
 
-## 1. Setting up Development Environment
-
-> 1. Discussion and Demo
-
-## X. SUMMARY / RECAP / Q&A
+## 1. To be decided
 
 > 1. Discussion and Demo
 
 ---
-
-## X. What is next ?
-
-> 1. To be decided
