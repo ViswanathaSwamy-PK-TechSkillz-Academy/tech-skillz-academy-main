@@ -12,7 +12,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. EF Core Crash Course
 > 1. Minimal API Crash Course
 > 1. Swagger, curl and Postman Crash Course
-> 1. Just enough PowerShell/az cli/shell scripting - Crash Course
+> 1. Just enough PowerShell/az cli - Crash Course
 > 1. Polyglot Persistence Crash Course
 >    - MS SQL Server, CosmosDB, My SQL, PostgreSQL
 >    - MongoDB, Redis, DynamoDB, Firebase, SQLite, H2
@@ -21,6 +21,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Just enough Azure for Minimal API deployment - Crash Course
 > 1. Just enough GitHub Actions for Minimal API deployment deployment - Crash Course
 > 1. Just enough AWS for Minimal API deployment - Crash Course
+> 1. Just enough Linux and shell scripting Crash Course
 > 1. Docker Crash Course
 > 1. Docker Compose Crash Course
 > 1. Reusable Components - Packages, Libraries, NuGet, NPM, GitHub Packages etc.
@@ -87,7 +88,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 > 1. To be decided
 
-## Just enough PowerShell/az cli/shell scripting - Crash Course
+## Just enough PowerShell/az cli scripting - Crash Course
 
 > 1. To be decided
 
