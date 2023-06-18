@@ -62,7 +62,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ## C# Object Oriented Programming Crash Course
 
-> 1. To be decided
+> 1. Please refer the [**`documentation`**](./documentation/a3_csharp_oop_crash_course/ReadMe.md)
 
 ## Data Access using ADO.NET Crash Course
 
