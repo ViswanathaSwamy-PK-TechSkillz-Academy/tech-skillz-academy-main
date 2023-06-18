@@ -11,6 +11,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Data Access using Dapper Crash Course
 > 1. EF Core Crash Course
 > 1. Minimal API Crash Course
+> 1. Swagger, curl and Postman Crash Course
 > 1. Just enough PowerShell/az cli/shell scripting - Crash Course
 > 1. Polyglot Persistence Crash Course [MS SQL Server, CosmosDB, My SQL, PostgreSQL, MongoDB, Redis, DynamoDB, Firebase, SQLite, H2]
 > 1. ARM/Biceps/Terraform and IaC
