@@ -11,19 +11,23 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Data Access using Dapper Crash Course
 > 1. EF Core Crash Course
 > 1. Minimal API Crash Course
+> 1. Swagger, curl and Postman Crash Course
 > 1. Just enough PowerShell/az cli/shell scripting - Crash Course
 > 1. Polyglot Persistence Crash Course [MS SQL Server, CosmosDB, My SQL, PostgreSQL, MongoDB, Redis, DynamoDB, Firebase, SQLite, H2]
 > 1. ARM/Biceps/Terraform and IaC
-> 1. Just enough **Azure** for `Minimal API` deployment - Crash Course
-> 1. Just enough GitHub Actions for `Minimal API` deployment deployment - Crash Course
-> 1. Just enough **AWS** for `Minimal API` deployment - Crash Course
+> 1. Cache-Aside Pattern with Redis
+> 1. Just enough Azure for Minimal API deployment - Crash Course
+> 1. Just enough GitHub Actions for Minimal API deployment deployment - Crash Course
+> 1. Just enough AWS for Minimal API deployment - Crash Course
 > 1. Docker Crash Course
 > 1. Docker Compose Crash Course
-> 1. SOLID Principles Crash Course
-> 1. Design Patterns Crash Course
-> 1. Web API Crash Course
-> 1. gRPC Crash Course
 > 1. Reusable Components - Packages, Libraries, NuGet, NPM, GitHub Packages etc.
+> 1. Web API Crash Course
+> 1. SOLID Principles Crash Course
+> 1. gRPC Crash Course
+> 1. Design Patterns Crash Course
+> 1. Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
+> 1. Data Structures and Algorithms Crash Course
 > 1. ASP.NET Core MVC/Razor Pages Crash Course
 > 1. Blazor Server Crash Course
 > 1. Blazor WebAssembly Crash Course
@@ -38,8 +42,6 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Python Flask Crash Course to create Web API
 > 1. GoLang Crash Course to create Web API
 > 1. Kubernetes Crash Course
-> 1. Cache-Aside Pattern with Redis
-> 1. Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
 > 1. Asynchronous communication between microservices using RabbitMQ, Mass Transit, Azure Service Bus, AWS SQS
 > 1. Data Analytics Crash Course
 > 1. AI/ML Crash Course
@@ -47,7 +49,8 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Observability Crash Course
 > 1. Microservices Full Length Series
 > 1. Deployment to Azure and AWS - Multi Cloud
-> 1. Architectures - Monolith, Microservices, Serverless, Event Driven, CQRS, Event Sourcing, DDD, EDA, etc.
+> 1. Architectures
+>    - Monolith, Microservices, Nano services using Serverless, Event Driven, CQRS, Event Sourcing, DDD, EDA, etc.
 > 1. And more...
 
 ---
@@ -92,15 +95,15 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 > 1. To be decided
 
-## Just enough **Azure** for `Minimal API` deployment - Crash Course
+## Just enough Azure for Minimal API deployment - Crash Course
 
 > 1. To be decided
 
-## Just enough GitHub Actions for `Minimal API` deployment deployment - Crash Course
+## Just enough GitHub Actions for Minimal API deployment deployment - Crash Course
 
 > 1. To be decided
 
-## Just enough **AWS** for `Minimal API` deployment - Crash Course
+## Just enough AWS for Minimal API deployment - Crash Course
 
 > 1. To be decided
 
@@ -116,7 +119,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 > 1. To be decided
 
-## Design Patterns Crash Course
+## Design Patterns, Data Structures and Algorithms Crash Course
 
 > 1. To be decided
 
