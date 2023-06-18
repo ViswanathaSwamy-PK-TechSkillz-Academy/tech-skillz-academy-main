@@ -45,6 +45,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Observability Crash Course
 > 1. Microservices Full Length Series
 > 1. Deployment to Azure and AWS - Multi Cloud
+> 1. Architectures - Monolith, Microservices, Serverless, Event Driven, CQRS, Event Sourcing, DDD, EDA, etc.
 > 1. And more...
 
 ---
