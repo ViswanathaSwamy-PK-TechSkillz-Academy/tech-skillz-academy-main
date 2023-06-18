@@ -54,11 +54,11 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ## 1. Pre-requisites and Setting up Development Environment
 
-> 1. Please refer the [**`documentation`**](./documentation/a1_prerequisites_setup)
+> 1. Please refer the [**`documentation`**](./documentation/a1_prerequisites_setup/ReadMe.md)
 
 ## 2. C# Crash Course
 
-> 1. Please refer the [**`documentation`**](./documentation/a2_csharp_crash_course)
+> 1. Please refer the [**`documentation`**](./documentation/a2_C#_Crash_Course/ReadMe.md)
 
 ## C# Object Oriented Programming Crash Course
 
