@@ -23,6 +23,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Design Patterns Crash Course
 > 1. Web API Crash Course
 > 1. gRPC Crash Course
+> 1. Reusable Components - Packages, Libraries, NuGet, NPM, GitHub Packages etc.
 > 1. ASP.NET Core MVC/Razor Pages Crash Course
 > 1. Blazor Server Crash Course
 > 1. Blazor WebAssembly Crash Course
@@ -30,6 +31,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Angular 16 Crash Course
 > 1. ReactJS 18 Crash Course
 > 1. VueJS 3 Crash Course
+> 1. Real Time Communication using SignalR Crash Course
 > 1. Creating our own Identity System for Single Sign On
 > 1. NodeJS Crash Course to create Web API
 > 1. Java Spring Boot Crash Course to create Web API
@@ -45,21 +47,22 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Observability Crash Course
 > 1. Microservices Full Length Series
 > 1. Deployment to Azure and AWS - Multi Cloud
+> 1. Architectures - Monolith, Microservices, Serverless, Event Driven, CQRS, Event Sourcing, DDD, EDA, etc.
 > 1. And more...
 
 ---
 
 ## 1. Pre-requisites and Setting up Development Environment
 
-> 1. Please refer the [**`documentation`**](./documentation/a1_prerequisites_setup)
+> 1. Please refer the [**`documentation`**](./documentation/a1_prerequisites_setup/ReadMe.md)
 
 ## 2. C# Crash Course
 
-> 1. Please refer the [**`documentation`**](./documentation/a2_csharp_crash_course)
+> 1. Please refer the [**`documentation`**](./documentation/a2_csharp_crash_course/ReadMe.md)
 
 ## C# Object Oriented Programming Crash Course
 
-> 1. To be decided
+> 1. Please refer the [**`documentation`**](./documentation/a3_csharp_oop_crash_course/ReadMe.md)
 
 ## Data Access using ADO.NET Crash Course
 
@@ -74,6 +77,18 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. To be decided
 
 ## Minimal API Crash Course
+
+> 1. To be decided
+
+## Just enough PowerShell/az cli/shell scripting - Crash Course
+
+> 1. To be decided
+
+## Polyglot Persistence Crash Course [MS SQL Server, CosmosDB, My SQL, PostgreSQL, MongoDB, Redis, DynamoDB, Firebase, SQLite, H2]
+
+> 1. To be decided
+
+## ARM/Biceps/Terraform and IaC
 
 > 1. To be decided
 
@@ -109,6 +124,14 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 > 1. To be decided
 
+## gRPC Crash Course
+
+> 1. To be decided
+
+## Reusable Components - Packages, Libraries, NuGet, NPM, GitHub Packages etc
+
+> 1. To be decided
+
 ## ASP.NET Core MVC/Razor Pages Crash Course
 
 > 1. To be decided
@@ -137,6 +160,14 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 > 1. To be decided
 
+## Real Time Communication using SignalR Crash Course
+
+> 1. To be decided
+
+## Creating our own Identity System for Single Sign On
+
+> 1. To be decided
+
 ## NodeJS Crash Course to create Web API
 
 > 1. To be decided
@@ -157,11 +188,43 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 > 1. To be decided
 
+## Cache-Aside Pattern with Redis
+
+> 1. To be decided
+
+## Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
+
+> 1. To be decided
+
+## Asynchronous communication between microservices using RabbitMQ, Mass Transit, Azure Service Bus, AWS SQS
+
+> 1. To be decided
+
+## Data Analytics Crash Course
+
+> 1. To be decided
+
+## AI/ML Crash Course
+
+> 1. To be decided
+
+## Alerts and Monitoring Crash Course
+
+> 1. To be decided
+
+## Observability Crash Course
+
+> 1. To be decided
+
 ## Microservices Full Length Series
 
 > 1. To be decided
 
 ## Deployment to Azure and AWS - Multi Cloud
+
+> 1. To be decided
+
+## Architectures - Monolith, Microservices, Serverless, Event Driven, CQRS, Event Sourcing, DDD, EDA, etc
 
 > 1. To be decided
 
