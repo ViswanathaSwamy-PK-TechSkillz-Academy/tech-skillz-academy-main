@@ -1,4 +1,4 @@
-# Techologies Mappings
+# Architectures
 
 This is a crash course on Swagger, curl and Postman.
 
