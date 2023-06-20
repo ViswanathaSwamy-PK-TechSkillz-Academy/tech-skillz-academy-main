@@ -60,6 +60,13 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ---
 
+> 1. Serverside: ASP.NET MVC, Razor Pages, Blazor Server, SSR using Angualr, React, Vue
+> 1. Clientside: Blazor WebAssembly, .NET MAUI, Angular, React, Vue
+> 1. Middleware APIs: .NET 7, NodeJS, Java Spring Boot, Python Flask, GoLang
+> 1. Middleware gRPC: .NET 7, NodeJS, Java, Python Flask, GoLang
+
+---
+
 ## 1. Pre-requisites and Setting up Development Environment
 
 > 1. Please refer the [**`documentation`**](./documentation/a1_prerequisites_setup/ReadMe.md)
