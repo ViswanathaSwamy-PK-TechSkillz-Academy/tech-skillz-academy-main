@@ -29,6 +29,8 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. SOLID Principles Crash Course
 > 1. gRPC Crash Course
 > 1. Design Patterns Crash Course
+> 1. GraphQL Crash Course
+> 1. Background Services Crash Course
 > 1. Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
 > 1. Data Structures and Algorithms Crash Course
 > 1. ASP.NET Core MVC/Razor Pages Crash Course
@@ -46,6 +48,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. GoLang Crash Course to create Web API
 > 1. Kubernetes Crash Course
 > 1. Asynchronous communication between microservices using RabbitMQ, Mass Transit, Azure Service Bus, AWS SQS
+> 1. Power BI Crash Course
 > 1. Data Analytics Crash Course
 > 1. AI/ML Crash Course
 > 1. Alerts and Monitoring Crash Course
