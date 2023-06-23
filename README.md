@@ -23,7 +23,8 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 >    - MongoDB, Redis, DynamoDB, Firebase, SQLite, H2
 > 1. Just enough `ARM` and IaC
 > 1. Just enough `Biceps` and IaC
-> 1. Cache-Aside Pattern with Redis
+> 1. Cache-Aside Pattern Crash Course
+>    - MS SQL Server, Redis
 > 1. Just enough Azure for Minimal API deployment - Crash Course
 > 1. Just enough GitHub Actions for Minimal API deployment deployment - Crash Course
 > 1. Just enough AWS for Minimal API deployment - Crash Course
