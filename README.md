@@ -15,7 +15,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 >    - In Memory, SQLite, CosmosDB
 > 1. `Minimal API` Crash Course
 >    - MongoDB
-> 1. Swagger, curl and Postman Crash Course
+> 1. `Swagger`, `curl` and `Postman` Crash Course
 > 1. Just enough `PowerShell` Crash Course
 >    - Introduction to PowerShell, PowerShell Scripting, PowerShell Modules, PowerShell Functions
 >    - Azure PowerShell, and creating resource using PowerShell
@@ -24,33 +24,36 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 >    - Creating Azure Resources using az cli
 > 1. `Cache-Aside` Pattern Crash Course
 >    - MS SQL Server, Redis, and Updating Minimal API to use Redis
-> 1. Manual deployment of Minimal API  to Azure
+> 1. Manual deployment of `Minimal API`  to `Azure`
 > 1. Just enough `GitHub Actions` for deploying `Minimal API` to `Azure`
 > 1. Just enough `AWS` for Minimal API deployment
 > 1. `Minimal API` deployment to `AWS`
-> 1. Just enough Linux and shell scripting Crash Course
-> 1. Reusable Components - Packages, Libraries, NuGet, NPM, GitHub Packages etc.
-> 1. Web API Crash Course
-> 1. SOLID Principles Crash Course
+> 1. Just enough `Linux` and `shell scripting` Crash Course
+> 1. Reusable Components - `Packages`, `Libraries`, `NuGet`, `NPM`, `GitHub Packages` etc.
+> 1. `Web API` Crash Course
+> 1. Manual deployment of `Web API`  to `Azure` and `AWS`
+> 1. `SOLID Principles` Crash Course
 > 1. Just enough `ARM` and IaC
 > 1. Just enough `Biceps` and IaC
 > 1. Just enough `Terraform` and IaC
-> 1. Docker Crash Course
-> 1. Docker Compose Crash Course
-> 1. gRPC Crash Course
-> 1. Design Patterns Crash Course
-> 1. GraphQL Crash Course
-> 1. Background Services Crash Course
-> 1. Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
-> 1. Data Structures and Algorithms Crash Course
-> 1. ASP.NET Core MVC/Razor Pages Crash Course
-> 1. Blazor Server Crash Course
-> 1. Blazor WebAssembly Crash Course
-> 1. .NET MAUI Crash Course
-> 1. Angular 16 Crash Course
-> 1. ReactJS 18 Crash Course
-> 1. VueJS 3 Crash Course
-> 1. Real Time Communication using SignalR Crash Course
+> 1. `Docker` Crash Course
+> 1. `Docker Compose` Crash Course
+> 1. `gRPC` Crash Course
+> 1. `Design Patterns` Crash Course
+> 1. `ODATA` Crash Course
+> 1. `GraphQL` Crash Course
+> 1. `Background Services` Crash Course
+> 1. Sync `Service to Service Communication`, `Resiliency Timeouts`, `Wait-and-retry`, `Circuit Breaker` Pattern
+> 1. `Data Structures` Crash Course
+> 1. `Algorithms` Crash Course
+> 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
+> 1. `Blazor Server` Crash Course
+> 1. `Blazor WebAssembly` Crash Course
+> 1. `.NET MAUI` Crash Course
+> 1. `Angular 16` Crash Course
+> 1. `ReactJS 18` Crash Course
+> 1. `VueJS 3` Crash Course
+> 1. Real Time Communication using `SignalR` Crash Course
 > 1. Creating our own Identity System for Single Sign On
 > 1. NodeJS Crash Course to create Web API
 > 1. Java Spring Boot Crash Course to create Web API
