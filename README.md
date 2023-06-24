@@ -8,16 +8,23 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. C# Crash Course in .NET 6/7/8 - [**Progress**]
 > 1. C# Object Oriented Programming Crash Course
 > 1. Data Access using ADO.NET Crash Course
+>    - MS SQL Server
 > 1. Data Access using Dapper Crash Course
+>    - MS SQL Server
 > 1. EF Core Crash Course
+>    - In Memory, SQLite, CosmosDB
 > 1. Minimal API Crash Course
+>    - MongoDB
 > 1. Swagger, curl and Postman Crash Course
-> 1. Just enough PowerShell/az cli - Crash Course
+> 1. Just enough `PowerShell` Crash Course
+> 1. Just enough `az cli` - Crash Course
 > 1. Polyglot Persistence Crash Course
 >    - MS SQL Server, CosmosDB, My SQL, PostgreSQL
 >    - MongoDB, Redis, DynamoDB, Firebase, SQLite, H2
-> 1. ARM/Biceps/Terraform and IaC
-> 1. Cache-Aside Pattern with Redis
+> 1. Just enough `ARM` and IaC
+> 1. Just enough `Biceps` and IaC
+> 1. Cache-Aside Pattern Crash Course
+>    - MS SQL Server, Redis
 > 1. Just enough Azure for Minimal API deployment - Crash Course
 > 1. Just enough GitHub Actions for Minimal API deployment deployment - Crash Course
 > 1. Just enough AWS for Minimal API deployment - Crash Course
@@ -27,6 +34,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Reusable Components - Packages, Libraries, NuGet, NPM, GitHub Packages etc.
 > 1. Web API Crash Course
 > 1. SOLID Principles Crash Course
+> 1. Just enough `Terraform` and IaC
 > 1. gRPC Crash Course
 > 1. Design Patterns Crash Course
 > 1. GraphQL Crash Course
