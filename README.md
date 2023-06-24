@@ -13,7 +13,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 >    - MS SQL Server
 > 1. `EF Core` Crash Course
 >    - In Memory, SQLite, CosmosDB
-> 1. Minimal API Crash Course
+> 1. `Minimal API` Crash Course
 >    - MongoDB
 > 1. Swagger, curl and Postman Crash Course
 > 1. Just enough `PowerShell` Crash Course
@@ -25,9 +25,9 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `Cache-Aside` Pattern Crash Course
 >    - MS SQL Server, Redis, and Updating Minimal API to use Redis
 > 1. Manual deployment of Minimal API  to Azure
-> 1. Just enough GitHub Actions for deploying `Minimal API` to `Azure`
-> 1. Just enought AWS for Minimal API deployment
-> 1. Minimal API deployment to AWS
+> 1. Just enough `GitHub Actions` for deploying `Minimal API` to `Azure`
+> 1. Just enough `AWS` for Minimal API deployment
+> 1. `Minimal API` deployment to `AWS`
 > 1. Just enough Linux and shell scripting Crash Course
 > 1. Reusable Components - Packages, Libraries, NuGet, NPM, GitHub Packages etc.
 > 1. Web API Crash Course
