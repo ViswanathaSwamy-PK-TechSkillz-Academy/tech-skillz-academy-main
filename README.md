@@ -7,18 +7,13 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Pre-requisites and Setting up Development Environment - [**Progress**]
 > 1. `C#` Crash Course in .NET 6/7/8 - [**Progress**]
 > 1. C# `Object Oriented Programming` Crash Course
-> 1. Data Access using `ADO.NET` Crash Course
->    - MS SQL Server
-> 1. Data Access using `Dapper` Crash Course
->    - MS SQL Server
-> 1. `EF Core` Crash Course
->    - In Memory, SQLite, CosmosDB
-> 1. `Minimal API` Crash Course
->    - MongoDB
+> 1. Data Access using `ADO.NET`, and `MS SQL Server` Crash Course
+> 1. Data Access using `Dapper`, and `MS SQL Server`  Crash Course
+> 1. `EF Core` with `In Memory`, `SQLite`, `CosmosDB` Crash Course
+> 1. `Minimal API` using `MongoDB` Crash Course
 > 1. `Swagger`, `curl` and `Postman` Crash Course
+> 1. Writing `.NET Console HTTP Client` to consume Minimal API
 > 1. Just enough `PowerShell` Crash Course
->    - Introduction to PowerShell, PowerShell Scripting, PowerShell Modules, PowerShell Functions
->    - Azure PowerShell, and creating resource using PowerShell
 > 1. Just enough `az cli` - Crash Course
 >    - Introduction to az cli, az cli Scripting
 >    - Creating Azure Resources using az cli
