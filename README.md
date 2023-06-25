@@ -20,9 +20,10 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `Cache-Aside` Pattern Crash Course
 >    - MS SQL Server, Redis, and Updating Minimal API to use Redis
 > 1. Manual deployment of `Minimal API`  to `Azure`
-> 1. Just enough `GitHub Actions` for deploying `Minimal API` to `Azure`
 > 1. Just enough `AWS` for Minimal API deployment
 > 1. `Minimal API` deployment to `AWS`
+> 1. Just enough `GitHub Actions` for deploying `Minimal API` to `Azure`
+> 1. Just enough `GitHub Actions` for deploying `Minimal API` to `AWS`
 > 1. Just enough `Linux` and `shell scripting` Crash Course
 > 1. Reusable Components - `Packages`, `Libraries`, `NuGet`, `NPM`, `GitHub Packages` etc.
 > 1. `Web API` Crash Course
