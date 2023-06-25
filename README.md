@@ -33,6 +33,10 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Just enough `ARM` and IaC
 > 1. Just enough `Biceps` and IaC
 > 1. Just enough `Terraform` and IaC
+> 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
+> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `Azure`
+> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `AWS`
+> 1. Microservices Mini Project 1 - `Minimal API`, `Web API`, `ASP.NET Core MVC`/`Razor Pages`
 > 1. `Docker` Crash Course
 > 1. `Docker Compose` Crash Course
 > 1. `gRPC` Crash Course
@@ -43,7 +47,6 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `Sync Service to Service Communication`, `Resiliency Timeouts`, `Wait-and-retry`, `Circuit Breaker` Pattern
 > 1. `Data Structures` Crash Course
 > 1. `Algorithms` Crash Course
-> 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
 > 1. `Blazor Server` Crash Course
 > 1. `Blazor WebAssembly` Crash Course
 > 1. `.NET MAUI` Crash Course
