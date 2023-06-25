@@ -15,10 +15,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Writing `.NET Console HTTP Client` to consume Minimal API
 > 1. Just enough `PowerShell` Crash Course
 > 1. Just enough `az cli` - Crash Course
->    - Introduction to az cli, az cli Scripting
->    - Creating Azure Resources using az cli
 > 1. `Cache-Aside` Pattern Crash Course
->    - MS SQL Server, Redis, and Updating Minimal API to use Redis
 > 1. Manual deployment of `Minimal API`  to `Azure`
 > 1. Just enough `GitHub Actions` for deploying `Minimal API` to `Azure`
 > 1. Just enough `AWS` for Minimal API deployment
