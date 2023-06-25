@@ -14,8 +14,8 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `Swagger`, `curl` and `Postman` Crash Course
 > 1. Writing `.NET Console HTTP Client` to consume Minimal API
 > 1. Just enough `PowerShell` Crash Course
-> 1. Just enough `az cli` - Crash Course
 > 1. `Cache-Aside` Pattern Crash Course
+> 1. Just enough `az cli` Crash Course
 > 1. Manual deployment of `Minimal API`  to `Azure`
 > 1. Just enough `AWS` Crash Course
 > 1. Manual deployment of `Minimal API` to `AWS`
@@ -40,7 +40,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `ODATA` Crash Course
 > 1. `GraphQL` Crash Course
 > 1. `Background Services` Crash Course
-> 1. Sync `Service to Service Communication`, `Resiliency Timeouts`, `Wait-and-retry`, `Circuit Breaker` Pattern
+> 1. `Sync Service to Service Communication`, `Resiliency Timeouts`, `Wait-and-retry`, `Circuit Breaker` Pattern
 > 1. `Data Structures` Crash Course
 > 1. `Algorithms` Crash Course
 > 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
