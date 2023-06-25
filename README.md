@@ -22,10 +22,11 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Just enough `GitHub Actions` for deploying `Minimal API` to `Azure`
 > 1. Just enough `GitHub Actions` for deploying `Minimal API` to `AWS`
 > 1. `Web API` Crash Course
-> 1. Manual deployment of `Web API`  to `Azure` and `AWS`
+> 1. Manual deployment of `Web API`  to `Azure`
+> 1. Manual deployment of `Web API`  to `AWS`
 > 1. `All In One` Architecture in `Minimal API`, and `Web API`
 > 1. `Layered` Architecture in `Minimal API`, and `Web API`
-> 1. Reusable Components - `Packages`, `Libraries`, `NuGet`, `NPM`, `GitHub Packages` etc.
+> 1. Reusable Components - `Libraries`, `NuGet`, and `Local Packages` etc.
 > 1. Updating `Minimal API`, and `Web API` to use `Local Nuget` packages
 > 1. Just enough `Linux` and `shell scripting` Crash Course
 > 1. `SOLID Principles` Crash Course
@@ -46,6 +47,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `Blazor Server` Crash Course
 > 1. `Blazor WebAssembly` Crash Course
 > 1. `.NET MAUI` Crash Course
+> 1. Reusable Components - `Packages`, `Libraries`, `NuGet`, `NPM`, `GitHub Packages` etc.
 > 1. `Angular 16` Crash Course
 > 1. `ReactJS 18` Crash Course
 > 1. `VueJS 3` Crash Course
