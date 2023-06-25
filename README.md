@@ -37,8 +37,20 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `Azure`
 > 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `AWS`
 > 1. Microservices Mini Project 1 - `Minimal API`, `Web API`, `ASP.NET Core MVC`/`Razor Pages`
+> 1. `Blazor Server` Crash Course
+> 1. `Blazor WebAssembly` Crash Course
+> 1. `.NET MAUI` Crash Course
+> 1. Reusable Components - `Packages`, `Libraries`, `NuGet`, `NPM`, `GitHub Packages` etc.
+> 1. `Angular 16` Crash Course
+> 1. Advanced Data Retrieval using `Paging`, `Filtering`, `Searching`, and `Sorting` in Minimal and Web APIs
+> 1. `ReactJS 18` Crash Course
+> 1. API Versioning in Minimal and Web APIs
+> 1. `VueJS 3` Crash Course
+> 1. Real Time Communication using `SignalR` Crash Course
 > 1. `Docker` Crash Course
 > 1. `Docker Compose` Crash Course
+> 1. Creating our own Identity System for Single Sign On
+> 1. Securing Minimal and Web APIs using `Identity Server 5/6/7/8`
 > 1. `gRPC` Crash Course
 > 1. `Design Patterns` Crash Course
 > 1. `ODATA` Crash Course
@@ -47,15 +59,6 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `Sync Service to Service Communication`, `Resiliency Timeouts`, `Wait-and-retry`, `Circuit Breaker` Pattern
 > 1. `Data Structures` Crash Course
 > 1. `Algorithms` Crash Course
-> 1. `Blazor Server` Crash Course
-> 1. `Blazor WebAssembly` Crash Course
-> 1. `.NET MAUI` Crash Course
-> 1. Reusable Components - `Packages`, `Libraries`, `NuGet`, `NPM`, `GitHub Packages` etc.
-> 1. `Angular 16` Crash Course
-> 1. `ReactJS 18` Crash Course
-> 1. `VueJS 3` Crash Course
-> 1. Real Time Communication using `SignalR` Crash Course
-> 1. Creating our own Identity System for Single Sign On
 > 1. NodeJS Crash Course to create Web API
 > 1. Java Spring Boot Crash Course to create Web API
 > 1. Python Flask Crash Course to create Web API
