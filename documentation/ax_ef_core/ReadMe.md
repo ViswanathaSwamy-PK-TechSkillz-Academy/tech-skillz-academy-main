@@ -10,6 +10,9 @@ To be decided.
 > 1. Provide NuGet package will bring in all the required dependencies
 >    - Microsoft.EntityFrameworkCore.SqlServer -> Microsoft.EntityFrameworkCore
 > 1. DbContext -> DbSet -> Entity
+> 1. Creating a Data Model and Database
+>    - At runtime, EF Core will create a database for us with code
+>    - At design time, we can create a database from our data model using tools
 
 ---
 
