@@ -19,8 +19,8 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Manual deployment of `Minimal API`  to `Azure`
 > 1. Just enough `AWS` Crash Course
 > 1. Manual deployment of `Minimal API` to `AWS`
-> 1. Just enough `GitHub Actions` for deploying `Minimal API` to `Azure`
-> 1. Just enough `GitHub Actions` for deploying `Minimal API` to `AWS`
+> 1. Automated deployment of `Minimal API` to `Azure` using `GitHub Actions`
+> 1. Automated deployment of `Minimal API` to `AWS` using `GitHub Actions`
 > 1. `SOLID Principles` Crash Course
 > 1. `Web API` Crash Course
 > 1. Manual deployment of `Web API`  to `Azure`
