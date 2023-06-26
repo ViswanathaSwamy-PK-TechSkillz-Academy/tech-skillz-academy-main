@@ -28,23 +28,26 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Mini **Project 1** using Monolith Architecture - `Minimal API`, and `ASP.NET Razor Pages`
 > 1. Automated deployment of `ASP.NET Razor Pages` to `Azure` using `GitHub Actions`
 > 1. Automated deployment of `ASP.NET Razor Pages` to `AWS` using `GitHub Actions`
-> 1. Mini **Project 2** using Microservices - `Minimal API`, and `ASP.NET Core Razor Pages`
+> 1. Mini **Project 2** using Microservices Architecture - `Minimal API`, and `ASP.NET Core Razor Pages`
 > 1. `Web API` Crash Course
 > 1. Manual deployment of `Web API`  to `Azure`
 > 1. Manual deployment of `Web API`  to `AWS`
 > 1. `All In One` Architecture in `Minimal API`, and `Web API`
 > 1. `Layered` Architecture in `Minimal API`, and `Web API`
+> 1. Automated deployment of `Web API` to `Azure` using `GitHub Actions`
+> 1. Automated deployment of `Web API` to `AWS` using `GitHub Actions`
 > 1. Reusable Components - `Libraries`, `NuGet`, and `Local Packages` etc.
 > 1. Updating `Minimal API`, and `Web API` to use `Local Nuget` packages
 > 1. `Data Structures` and `Algorithms` Crash Course
-> 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
-> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `Azure`
-> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `AWS`
-> 1. Microservices Mini Project 1 - `Minimal API`, `Web API`, and `ASP.NET Core MVC`/`Razor Pages`
+> 1. Mini **Project 3** using Microservices Architecture - `Minimal API`, `Web API`, and `ASP.NET Core Razor Pages`
+> 1. `Blazor Server` Crash Course
+> 1. Manual deployment of `Blazor Server`  to `Azure`
+> 1. Manual deployment of `Blazor Server`  to `AWS`
+> 1. Automated deployment of `Blazor Server` to `Azure` using `GitHub Actions`
+> 1. Automated deployment of `Blazor Server` to `AWS` using `GitHub Actions`
+> 1. Mini **Project 4** using Microservices Architecture - `Minimal API`, `Web API`, `ASP.NET Core Razor Pages`, and `Blazor Server`
 > 1. Just enough `Linux` and `shell scripting` Crash Course
 > 1. Just enough `ARM` and IaC
-> 1. `Blazor Server` Crash Course
-> 1. Microservices Mini Project 2 - `Minimal API`, `Web API`, `ASP.NET Core MVC`/`Razor Pages`, and `Blazor Server`
 > 1. Just enough `Biceps` and IaC
 > 1. `Blazor WebAssembly` Crash Course
 > 1. Just enough `Terraform` and IaC
