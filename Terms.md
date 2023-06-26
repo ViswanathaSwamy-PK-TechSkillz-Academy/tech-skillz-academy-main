@@ -3,6 +3,11 @@
 | Term | Definition |
 | -------- | ------- |
 | API | Application Programming Interface |
+| BDD | Behaviour Driven Development |
+| CI | Continuous Integration |
+| CD | Continuous Delivery |
+| CD | Continuous Deployment |
+| CI/CD | Continuous Integration and Continuous Delivery |
 | CLI | Command Line Interface |
 | CORS | Cross-origin resource sharing  |
 | CRUD | Create, Read, Update, Delete |
@@ -47,3 +52,6 @@
 | AI | Artificial Intelligence |
 | ML | Machine Learning |
 | NLP | Natural Language Processing |
+| CQRS | Command Query Responsibility Segregation |
+| DDD | Domain Driven Design |
+| TDD | Test Driven Development |
