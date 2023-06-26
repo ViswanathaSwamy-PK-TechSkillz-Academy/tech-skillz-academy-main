@@ -14,39 +14,52 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `Swagger`, `curl` and `Postman` Crash Course
 > 1. Writing `.NET Console HTTP Client` to consume Minimal API
 > 1. Just enough `PowerShell` Crash Course
-> 1. Just enough `az cli` - Crash Course
 > 1. `Cache-Aside` Pattern Crash Course
+> 1. Just enough `az cli` Crash Course
 > 1. Manual deployment of `Minimal API`  to `Azure`
+> 1. Just enough `AWS` Crash Course
+> 1. Manual deployment of `Minimal API` to `AWS`
 > 1. Just enough `GitHub Actions` for deploying `Minimal API` to `Azure`
-> 1. Just enough `AWS` for Minimal API deployment
-> 1. `Minimal API` deployment to `AWS`
-> 1. Just enough `Linux` and `shell scripting` Crash Course
-> 1. Reusable Components - `Packages`, `Libraries`, `NuGet`, `NPM`, `GitHub Packages` etc.
-> 1. `Web API` Crash Course
-> 1. Manual deployment of `Web API`  to `Azure` and `AWS`
+> 1. Just enough `GitHub Actions` for deploying `Minimal API` to `AWS`
 > 1. `SOLID Principles` Crash Course
+> 1. `Web API` Crash Course
+> 1. Manual deployment of `Web API`  to `Azure`
+> 1. Manual deployment of `Web API`  to `AWS`
+> 1. `All In One` Architecture in `Minimal API`, and `Web API`
+> 1. `Layered` Architecture in `Minimal API`, and `Web API`
+> 1. Reusable Components - `Libraries`, `NuGet`, and `Local Packages` etc.
+> 1. Updating `Minimal API`, and `Web API` to use `Local Nuget` packages
+> 1. `Data Structures` and `Algorithms` Crash Course
+> 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
+> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `Azure`
+> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `AWS`
+> 1. Microservices Mini Project 1 - `Minimal API`, `Web API`, and `ASP.NET Core MVC`/`Razor Pages`
+> 1. Just enough `Linux` and `shell scripting` Crash Course
 > 1. Just enough `ARM` and IaC
+> 1. `Blazor Server` Crash Course
+> 1. Microservices Mini Project 2 - `Minimal API`, `Web API`, `ASP.NET Core MVC`/`Razor Pages`, and `Blazor Server`
 > 1. Just enough `Biceps` and IaC
+> 1. `Blazor WebAssembly` Crash Course
 > 1. Just enough `Terraform` and IaC
+> 1. `.NET MAUI` Crash Course
+> 1. Reusable Components - `Packages`, `Libraries`, `NuGet`, `NPM`, `GitHub Packages` etc.
+> 1. `Angular 16` Crash Course
+> 1. Advanced Data Retrieval using `Paging`, `Filtering`, `Searching`, and `Sorting` in Minimal and Web APIs
+> 1. `ReactJS 18` Crash Course
+> 1. API Versioning in Minimal and Web APIs
+> 1. `VueJS 3` Crash Course
+> 1. Real Time Communication using `SignalR` Crash Course
 > 1. `Docker` Crash Course
 > 1. `Docker Compose` Crash Course
+> 1. Creating our own Identity System for Single Sign On
+> 1. Securing Minimal and Web APIs using `Identity Server 5/6/7/8`
 > 1. `gRPC` Crash Course
 > 1. `Design Patterns` Crash Course
 > 1. `ODATA` Crash Course
 > 1. `GraphQL` Crash Course
 > 1. `Background Services` Crash Course
-> 1. Sync `Service to Service Communication`, `Resiliency Timeouts`, `Wait-and-retry`, `Circuit Breaker` Pattern
-> 1. `Data Structures` Crash Course
-> 1. `Algorithms` Crash Course
-> 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
-> 1. `Blazor Server` Crash Course
-> 1. `Blazor WebAssembly` Crash Course
-> 1. `.NET MAUI` Crash Course
-> 1. `Angular 16` Crash Course
-> 1. `ReactJS 18` Crash Course
-> 1. `VueJS 3` Crash Course
-> 1. Real Time Communication using `SignalR` Crash Course
-> 1. Creating our own Identity System for Single Sign On
+> 1. `Sync Service to Service Communication`, `Resiliency Timeouts`, `Wait-and-retry`, `Circuit Breaker` Pattern
+> 1. `Nano services` using Serverless
 > 1. NodeJS Crash Course to create Web API
 > 1. Java Spring Boot Crash Course to create Web API
 > 1. Python Flask Crash Course to create Web API
