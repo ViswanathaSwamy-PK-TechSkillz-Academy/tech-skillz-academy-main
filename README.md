@@ -14,7 +14,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `Swagger`, `curl` and `Postman` Crash Course
 > 1. Writing `.NET Console HTTP Client` to consume Minimal API
 > 1. Just enough `PowerShell` Crash Course
-> 1. `Cache-Aside` Pattern Crash Course
+> 1. `Cache-Aside` Pattern in `Minimal API` Crash Course
 > 1. Just enough `az cli` Crash Course
 > 1. Manual deployment of `Minimal API`  to `Azure`
 > 1. Just enough `AWS` Crash Course
@@ -22,6 +22,13 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Automated deployment of `Minimal API` to `Azure` using `GitHub Actions`
 > 1. Automated deployment of `Minimal API` to `AWS` using `GitHub Actions`
 > 1. `SOLID Principles` Crash Course
+> 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
+> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `Azure`
+> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `AWS`
+> 1. Mini **Project 1** using Monolith Architecture - `Minimal API`, and `ASP.NET Razor Pages`
+> 1. Automated deployment of `ASP.NET Razor Pages` to `Azure` using `GitHub Actions`
+> 1. Automated deployment of `ASP.NET Razor Pages` to `AWS` using `GitHub Actions`
+> 1. Mini **Project 2** using Microservices - `Minimal API`, and `ASP.NET Core Razor Pages`
 > 1. `Web API` Crash Course
 > 1. Manual deployment of `Web API`  to `Azure`
 > 1. Manual deployment of `Web API`  to `AWS`
