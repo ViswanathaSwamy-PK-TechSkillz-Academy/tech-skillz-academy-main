@@ -13,6 +13,7 @@ To be decided.
 > 1. Creating a Data Model and Database
 >    - At runtime, EF Core will create a database for us with code
 >    - At design time, we can create a database from our data model using tools
+> 1. We can query the database using LINQ in two ways using LINQ Method Syntax and LINQ Query/Operator Syntax
 
 ---
 
