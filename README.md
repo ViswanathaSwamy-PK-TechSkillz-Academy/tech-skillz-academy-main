@@ -7,29 +7,36 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Pre-requisites and Setting up Development Environment - [**Progress**]
 > 1. `C#` Crash Course in .NET 6/7/8 - [**Progress**]
 > 1. C# `Object Oriented Programming` Crash Course
-> 1. Data Access using `ADO.NET`, and `MS SQL Server` Crash Course
-> 1. Data Access using `Dapper`, and `MS SQL Server`  Crash Course
 > 1. `EF Core` with `In Memory`, `SQLite`, `CosmosDB` Crash Course
-> 1. `Minimal API` using `MongoDB` Crash Course
-> 1. `Swagger`, `curl` and `Postman` Crash Course
+> 1. `Minimal API` using `EF Core`, and `In Memory` database (`Swagger` included) - Only GetAll()
 > 1. Writing `.NET Console HTTP Client` to consume Minimal API
-> 1. Just enough `PowerShell` Crash Course
-> 1. `Cache-Aside` Pattern in `Minimal API` Crash Course
-> 1. Just enough `az cli` Crash Course
 > 1. Manual deployment of `Minimal API`  to `Azure`
+> 1. `ASP.NET Core Razor Pages` Crash Course
+> 1. Manual deployment of `ASP.NET Core Razor Pages`  to `Azure`
+> 1. Mini **Project 1** using Monolith Architecture - `Minimal API`, and `ASP.NET Razor Pages` - Manual Deployment to `Azure`
+> 1. Manual deployment of `.SQLProj` to `Azure SQL` Database
+> 1. Updating `Minimal API` to use `MS SQL Server` Database
+> 1. Mini **Project 2** using Monolith Architecture - `.SQLProj`, `Minimal API`, and `ASP.NET Razor Pages` - Manual Deployment to `Azure`
+> 1. Automated deployment of `.SQLProj` to `Azure SQL` Database using `GitHub Actions`
+> 1. Automated deployment of `Minimal API` to `Azure` using `GitHub Actions`
+> 1. Automated deployment of `ASP.NET Razor Pages` to `Azure` using `GitHub Actions`
+> 1. Mini **Project 3** using Microservices Architecture - `.SQLProj`, `Minimal API`, and `ASP.NET Core Razor Pages` to `Azure`
+> 1. `Cache-Aside` Pattern in `Minimal API` Crash Course
+> 1. Mini **Project 4** using Microservices Architecture - `.SQLProj`, `Minimal API` with `Cache-Aside` Pattern using `Redis`, and `ASP.NET Core Razor Pages` to `Azure`
+> 1. `SOLID Principles` Crash Course
 > 1. Just enough `AWS` Crash Course
 > 1. Manual deployment of `Minimal API` to `AWS`
-> 1. Automated deployment of `Minimal API` to `Azure` using `GitHub Actions`
+> 1. Manual deployment of `ASP.NET Core Razor Pages`  to `AWS`
+> 1. Mini **Project 5** using Microservices Architecture - `.SQLProj`, `Minimal API`, and `ASP.NET Core Razor Pages` to `AWS`
 > 1. Automated deployment of `Minimal API` to `AWS` using `GitHub Actions`
-> 1. `SOLID Principles` Crash Course
-> 1. `ASP.NET Core MVC`/`Razor Pages` Crash Course
-> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `Azure`
-> 1. Manual deployment of `ASP.NET Core MVC`/`Razor Pages`  to `AWS`
-> 1. Mini **Project 1** using Monolith Architecture - `Minimal API`, and `ASP.NET Razor Pages`
-> 1. Automated deployment of `ASP.NET Razor Pages` to `Azure` using `GitHub Actions`
 > 1. Automated deployment of `ASP.NET Razor Pages` to `AWS` using `GitHub Actions`
-> 1. Mini **Project 2** using Microservices Architecture - `Minimal API`, and `ASP.NET Core Razor Pages`
-> 1. `Web API` Crash Course
+> 1. Mini **Project 6** using Microservices Architecture - `.SQLProj`, `Minimal API` with `Cache-Aside` Pattern using `Redis`, and `ASP.NET Core Razor Pages` to `AWS`
+> 1. Just enough `PowerShell` Crash Course
+> 1. Just enough `az cli` Crash Course
+> 1. `curl` and `Postman` Crash Course
+> 1. Data Access using `ADO.NET`, and `MS SQL Server` Crash Course
+> 1. Data Access using `Dapper`, and `MS SQL Server`  Crash Course
+> 1. `Web API` using `MongoDb` / `CosmosDB` Crash Course
 > 1. Manual deployment of `Web API`  to `Azure`
 > 1. Manual deployment of `Web API`  to `AWS`
 > 1. `All In One` Architecture in `Minimal API`, and `Web API`
@@ -39,13 +46,13 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Reusable Components - `Libraries`, `NuGet`, and `Local Packages` etc.
 > 1. Updating `Minimal API`, and `Web API` to use `Local Nuget` packages
 > 1. `Data Structures` and `Algorithms` Crash Course
-> 1. Mini **Project 3** using Microservices Architecture - `Minimal API`, `Web API`, and `ASP.NET Core Razor Pages`
+> 1. Mini **Project x** using Microservices Architecture - `Minimal API`, `Web API`, and `ASP.NET Core Razor Pages`
 > 1. `Blazor Server` Crash Course
 > 1. Manual deployment of `Blazor Server`  to `Azure`
 > 1. Manual deployment of `Blazor Server`  to `AWS`
 > 1. Automated deployment of `Blazor Server` to `Azure` using `GitHub Actions`
 > 1. Automated deployment of `Blazor Server` to `AWS` using `GitHub Actions`
-> 1. Mini **Project 4** using Microservices Architecture - `Minimal API`, `Web API`, `ASP.NET Core Razor Pages`, and `Blazor Server`
+> 1. Mini **Project x** using Microservices Architecture - `Minimal API`, `Web API`, `ASP.NET Core Razor Pages`, and `Blazor Server`
 > 1. Just enough `Linux` and `shell scripting` Crash Course
 > 1. Just enough `ARM` and IaC
 > 1. Just enough `Biceps` and IaC
