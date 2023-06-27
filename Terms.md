@@ -4,11 +4,11 @@
 | -------- | ------- |
 | API | Application Programming Interface |
 | BDD | Behaviour Driven Development |
-| CI | Continuous Integration |
 | CD | Continuous Delivery |
 | CD | Continuous Deployment |
-| CI/CD | Continuous Integration and Continuous Delivery |
 | CLI | Command Line Interface |
+| CI | Continuous Integration |
+| CI/CD | Continuous Integration and Continuous Delivery |
 | CORS | Cross-origin resource sharing  |
 | CRUD | Create, Read, Update, Delete |
 | CSS | Cascading Style Sheets |
@@ -16,6 +16,7 @@
 | HTML | HyperText Markup Language |
 | HTTP | HyperText Transfer Protocol |
 | HTTPS | HyperText Transfer Protocol Secure |
+| HSTS | HTTP Strict Transport Security |
 | IDE | Integrated Development Environment |
 | IP | Internet Protocol |
 | JSON | JavaScript Object Notation |
@@ -55,3 +56,7 @@
 | CQRS | Command Query Responsibility Segregation |
 | DDD | Domain Driven Design |
 | TDD | Test Driven Development |
+| DRY | Don't Repeat Yourself |
+| KISS | Keep It Simple Stupid |
+| YAGNI | You Aren't Gonna Need It |
+| SOLID | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion |
