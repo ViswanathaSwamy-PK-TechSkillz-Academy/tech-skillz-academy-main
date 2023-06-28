@@ -10,13 +10,13 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. `EF Core` with `In Memory`, `SQLite`, `CosmosDB` Crash Course
 > 1. `Minimal API` using `EF Core`, and `In Memory` database (`Swagger` included) - Only GetAll()
 > 1. Writing `.NET Console HTTP Client` to consume Minimal API
-> 1. Manual deployment of `Minimal API`  to `Azure`
+> 1. Monolith Architecture vs Microservices Architecture - Discussion
+> 1. Mini **Project 1**  - Manual deployment of `Minimal API`  to `Azure`
 > 1. `ASP.NET Core Razor Pages` Crash Course
-> 1. Manual deployment of `ASP.NET Core Razor Pages`  to `Azure`
-> 1. Mini **Project 1** using Monolith Architecture - `Minimal API`, and `ASP.NET Razor Pages` - Manual Deployment to `Azure`
-> 1. Manual deployment of `.SQLProj` to `Azure SQL` Database
-> 1. Updating `Minimal API` to use `MS SQL Server` Database
-> 1. Mini **Project 2** using Monolith Architecture - `.SQLProj`, `Minimal API`, and `ASP.NET Razor Pages` - Manual Deployment to `Azure`
+> 1. Mini **Project 2**  - Manual deployment of `ASP.NET Core Razor Pages` to `Azure`, and integrating with `Minimal API`
+> 1. Mini **Project 3**  - Manual deployment of `.SQLProj` to `Azure SQL` Database
+> 1. Updating `Minimal API` to use `Azure SQL` Database
+> 1. Mini **Project 4** using Mono Repo - `.SQLProj`, `Minimal API`, and `ASP.NET Razor Pages` - Manual Deployment to `Azure`
 > 1. Automated deployment of `.SQLProj` to `Azure SQL` Database using `GitHub Actions`
 > 1. Automated deployment of `Minimal API` to `Azure` using `GitHub Actions`
 > 1. Automated deployment of `ASP.NET Razor Pages` to `Azure` using `GitHub Actions`
