@@ -24,6 +24,7 @@
 | DRY | Don't Repeat Yourself |
 | EDA | Exploratory Data Analysis |
 | ETL | Extract Transform Load |
+| gRPC | Google Remote Procedure Call |
 | HTML | HyperText Markup Language |
 | HTTP | HyperText Transfer Protocol |
 | HTTPS | HyperText Transfer Protocol Secure |
