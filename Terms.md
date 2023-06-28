@@ -15,6 +15,7 @@
 | CLI | Command Line Interface |
 | CI | Continuous Integration |
 | CI/CD | Continuous Integration and Continuous Delivery |
+| COOL | C-like Object Oriented Language |
 | CORS | Cross-origin resource sharing  |
 | CNCF | Cloud Native Computing Foundation |
 | CRUD | Create, Read, Update, Delete |
