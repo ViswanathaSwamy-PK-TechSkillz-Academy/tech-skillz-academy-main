@@ -59,12 +59,12 @@ dotnet --list-sdks
 
 > 1. Discussion and Demo
 
+![Windows Terminal |150x150](./images/GitForWindows.PNG)
+
 ## X. Install GitHub Desktop
 
 > 1. Discussion and Demo
 
-## X. SUMMARY / RECAP / Q&A
-
-> 1. Discussion and Demo
+![GitHub Desktop |150x150](./images/GitHubDesktop.PNG)
 
 ---
