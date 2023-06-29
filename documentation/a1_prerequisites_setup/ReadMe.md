@@ -29,6 +29,8 @@ Reference(s):
 
 > 1. Discussion and Demo
 
+![Dot Net Sdks |150x150](./images/DotNetSdks.PNG)
+
 ## X. Install Visual Studio Code
 
 > 1. Discussion and Demo
