@@ -23,11 +23,19 @@ Reference(s):
 
 > 1. [https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3)
 
+```powershell
+$PSVersionTable
+```
+
 ![PowerShell Core |150x150](./images/PowerShellCore.PNG)
 
 ## X. Install .NET 6/7/8 SDKs
 
 > 1. Discussion and Demo
+
+```powershell
+dotnet --list-sdks
+```
 
 ![Dot Net Sdks |150x150](./images/DotNetSdks.PNG)
 
@@ -35,9 +43,17 @@ Reference(s):
 
 > 1. Discussion and Demo
 
+![Visual Studio Code |150x150](./images/VSCode.PNG)
+
 ## X. Install Windows Terminal
 
 > 1. Discussion and Demo
+
+```powershell
+dotnet --list-sdks
+```
+
+![Windows Terminal |150x150](./images/WindowsTerminal.PNG)
 
 ## X. Install Git for Windows
 
@@ -52,7 +68,3 @@ Reference(s):
 > 1. Discussion and Demo
 
 ---
-
-## X. What is next ?
-
-> 1. To be decided
