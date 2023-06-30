@@ -15,11 +15,12 @@
 > 1. Install Git for Windows
 > 1. Install GitHub Desktop
 
-## X. Install PowerShell Core 7.3 or above
+## 2. Install PowerShell Core 7.3 or above
 
-> 1. Discussion and Demo
+> 1. Install the PowerShell Core 7.3 or above from the URL below
+> 1. Open PowerShell Core and run the command below to check the version of PowerShell Core
 
-Reference(s):
+**Reference(s):**
 
 > 1. [https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3)
 
@@ -29,13 +30,20 @@ $PSVersionTable
 
 ![PowerShell Core |150x150](./images/PowerShellCore.PNG)
 
-## X. Install .NET 6/7/8 SDKs
+## 3. Install .NET 6/7/8 SDKs
 
-> 1. Discussion and Demo
+> 1. Install the .NET 6/7/8 SDKs from the URL below. Please refer the screenshots below of .NET Downloads and .NET SDKs
+> 1. After installation, open PowerShell / CMD / Terminal and run the command below to verify the list of installed SDKs
+
+**Reference(s):**
+
+> 1. [https://dotnet.microsoft.com/en-us/download/dotnet](https://dotnet.microsoft.com/en-us/download/dotnet)
 
 ```powershell
 dotnet --list-sdks
 ```
+
+![Dot Net Downloads |150x150](./images/DotNetDownloads.PNG)
 
 ![Dot Net Sdks |150x150](./images/DotNetSdks.PNG)
 
