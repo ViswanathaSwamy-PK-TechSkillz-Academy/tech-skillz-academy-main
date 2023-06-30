@@ -6,16 +6,17 @@
 
 ![Please fasten your seat belt |150x150](../../documentation/images/SeatBelt.PNG)
 
-## 1. Pre-requisites and Setting up Development Environment
+## Pre-requisites and Setting up Development Environment
 
 > 1. Install PowerShell Core 7.3 or above
 > 1. Install .NET 6/7/8 SDKs
 > 1. Install Visual Studio Code
+> 1. Visual Studio Code Extensions (C#, PowerShell)
 > 1. Install Windows Terminal
 > 1. Install Git for Windows
 > 1. Install GitHub Desktop
 
-## 2. Install PowerShell Core 7.3 or above
+## 1. Install PowerShell Core 7.3 or above
 
 > 1. Install the PowerShell Core 7.3 or above from the URL below
 > 1. Open PowerShell Core and run the command below to check the version of PowerShell Core
@@ -30,7 +31,7 @@ $PSVersionTable
 
 ![PowerShell Core |150x150](./images/PowerShellCore.PNG)
 
-## 3. Install .NET 6/7/8 SDKs
+## 2. Install .NET 6/7/8 SDKs
 
 > 1. Install the .NET 6/7/8 SDKs from the URL below. Please refer the screenshots below of .NET Downloads and .NET SDKs
 > 1. After installation, open PowerShell / CMD / Terminal and run the command below to verify the list of installed SDKs
@@ -47,11 +48,18 @@ dotnet --list-sdks
 
 ![Dot Net Sdks |150x150](./images/DotNetSdks.PNG)
 
-## X. Install Visual Studio Code
+## 3. Install Visual Studio Code
 
-> 1. Discussion and Demo
+> 1. You can install Visual Studio Code from [https://code.visualstudio.com](https://code.visualstudio.com)
+> 1. Install the version for your operating system. Please refer the screenshots below of Visual Studio Code Download and Visual Studio Code.
+
+![Visual Studio Code |150x150](./images/VSCodeDownload.PNG)
 
 ![Visual Studio Code |150x150](./images/VSCode.PNG)
+
+## 4. Visual Studio Code Extensions (C#, PowerShell)
+
+> 1. Discussion and Demo
 
 ## X. Install Windows Terminal
 

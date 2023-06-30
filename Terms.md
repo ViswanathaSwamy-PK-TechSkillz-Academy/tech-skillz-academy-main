@@ -41,6 +41,7 @@
 | REST | Representational State Transfer |
 | OOCSS | Object Oriented CSS |
 | SMACSS | Scalable and Modular Architecture for CSS |
+| TLS | Transport Layer Security |
 | ITCSS | Inverted Triangle CSS |
 | ML | Machine Learning |
 | NLP | Natural Language Processing |
