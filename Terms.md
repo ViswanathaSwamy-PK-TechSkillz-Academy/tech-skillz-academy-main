@@ -34,6 +34,7 @@
 | IIS | Internet Information Services |
 | IoT | Internet of Things |
 | HSM | Hardware Security Module |
+| PFS | Perfect Forward Secrecy |
 | IDE | Integrated Development Environment |
 | IP | Internet Protocol |
 | JSON | JavaScript Object Notation |
