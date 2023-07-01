@@ -2,6 +2,7 @@
 
 | Term | Definition |
 | -------- | ------- |
+| AES | Advanced Encryption Standard |
 | AI | Artificial Intelligence |
 | ANN | Artificial Neural Network |
 | API | Application Programming Interface |
@@ -20,6 +21,8 @@
 | CNCF | Cloud Native Computing Foundation |
 | CRUD | Create, Read, Update, Delete |
 | CSS | Cascading Style Sheets |
+| DevOps | Development and Operations |
+| SCM | Source Control Management |
 | DOM | Document Object Model |
 | DDD | Domain Driven Design |
 | DRY | Don't Repeat Yourself |
@@ -31,6 +34,9 @@
 | HTTPS | HyperText Transfer Protocol Secure |
 | HSTS | HTTP Strict Transport Security |
 | IaaS | Infrastructure as a Service |
+| PaaS | Platform as a Service |
+| SaaS | Software as a Service |
+| IaC | Infrastructure as Code |
 | IIS | Internet Information Services |
 | IoT | Internet of Things |
 | HSM | Hardware Security Module |
