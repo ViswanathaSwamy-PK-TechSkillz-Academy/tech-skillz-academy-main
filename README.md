@@ -4,35 +4,39 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ## Agenda
 
-> 1. Pre-requisites and Setting up Development Environment - [**Progress**]
-> 1. `C#` Crash Course in .NET 6/7/8 - [**Progress**]
-> 1. C# `Object Oriented Programming` Crash Course
-> 1. `EF Core` with `In Memory`, `SQLite`, `CosmosDB` Crash Course
-> 1. `Minimal API` using `EF Core`, and `In Memory` database (`Swagger` included) - Only GetAll()
-> 1. Writing `.NET Console HTTP Client` to consume Minimal API
-> 1. Monolith Architecture vs Microservices Architecture - Discussion
-> 1. Mini **Project 1**  - Manual deployment of `Minimal API`  to `Azure`
-> 1. `ASP.NET Core Razor Pages` Crash Course
-> 1. Mini **Project 2**  - Manual deployment of `ASP.NET Core Razor Pages` to `Azure`, and integrating with `Minimal API`
-> 1. Mini **Project 3**  - Manual deployment of `.SQLProj` to `Azure SQL` Database
-> 1. Updating `Minimal API` to use `Azure SQL` Database
-> 1. Mini **Project 4** using Mono Repo - `.SQLProj`, `Minimal API`, and `ASP.NET Razor Pages` - Manual Deployment to `Azure`
+> 1. Pre-requisites and Setting up Development Environment - [`Progress`]
+> 1. `C#` Crash Course in .NET 6/7/8 - [`Progress - 10 Hour(s)`]
+> 1. C# `Object Oriented Programming` Crash Course - [`To be done - 8 Hour(s)`]
+> 1. `EF Core` with `In Memory`, `SQLite`, `CosmosDB` Crash Course - [`To be done - 8 Hour(s)`]
+> 1. `Minimal API` using `EF Core`, and `In Memory` database (`Swagger` included) - Only GetAll(), GetById() - [`To be done - 8 Hour(s)`]
+> 1. Writing `.NET Console HTTP Client` to consume Minimal API - [`To be done - 1 Hour(s)`]
+> 1. Monolith Architecture vs Microservices Architecture - Discussion - [`To be done - 1 Hour(s)`]
+> 1. `Azure` Crash Course  - [`To be done - 1 Hour(s)`]
+> 1. Mini **Project 1**  - Manual deployment of `Minimal API`  to `Azure` - [`To be done - 1 Hour(s)`]
+> 1. `ASP.NET Core Razor Pages` Crash Course - [`To be done - 8 Hour(s)`]
+> 1. Mini **Project 2**  - Manual deployment of `ASP.NET Core Razor Pages` to `Azure`, and integrating with `Minimal API` - [`To be done - 2 Hour(s)`]
+> 1. Mini **Project 3**  - Manual deployment of `.SQLProj` to `Azure SQL` Database - [`To be done - 1 Hour(s)`]
+> 1. Updating `Minimal API` to use `Azure SQL` Database - [`To be done - 1 Hour(s)`]
+> 1. Mini **Project 4** using Mono Repo - `.SQLProj`, `Minimal API`, and `ASP.NET Razor Pages` - Manual Deployment to `Azure` - [`To be done - 2 Hour(s)`]
+> 1. ----- `Break` -----
+> 1. First steps into Microservices world; Splitting the Projects into its own Repositories
 > 1. Automated deployment of `.SQLProj` to `Azure SQL` Database using `GitHub Actions`
 > 1. Automated deployment of `Minimal API` to `Azure` using `GitHub Actions`
 > 1. Automated deployment of `ASP.NET Razor Pages` to `Azure` using `GitHub Actions`
-> 1. Mini **Project 3** using Microservices Architecture - `.SQLProj`, `Minimal API`, and `ASP.NET Core Razor Pages` to `Azure`
+> 1. Mini **Project x** using Microservices Architecture - `.SQLProj`, `Minimal API`, and `ASP.NET Core Razor Pages` to `Azure`
 > 1. `Cache-Aside` Pattern in `Minimal API` Crash Course
-> 1. Mini **Project 4** using Microservices Architecture - `.SQLProj`, `Minimal API` with `Cache-Aside` Pattern using `Redis`, and `ASP.NET Core Razor Pages` to `Azure`
+> 1. Mini **Project x** using Microservices Architecture - `.SQLProj`, `Minimal API` with `Cache-Aside` Pattern using `Redis`, and `ASP.NET Core Razor Pages` to `Azure`
 > 1. `SOLID Principles` Crash Course
 > 1. Just enough `AWS` Crash Course
 > 1. Manual deployment of `Minimal API` to `AWS`
 > 1. Manual deployment of `ASP.NET Core Razor Pages`  to `AWS`
-> 1. Mini **Project 5** using Microservices Architecture - `.SQLProj`, `Minimal API`, and `ASP.NET Core Razor Pages` to `AWS`
+> 1. Mini **Project x** using Microservices Architecture - `.SQLProj`, `Minimal API`, and `ASP.NET Core Razor Pages` to `AWS`
 > 1. Automated deployment of `Minimal API` to `AWS` using `GitHub Actions`
 > 1. Automated deployment of `ASP.NET Razor Pages` to `AWS` using `GitHub Actions`
-> 1. Mini **Project 6** using Microservices Architecture - `.SQLProj`, `Minimal API` with `Cache-Aside` Pattern using `Redis`, and `ASP.NET Core Razor Pages` to `AWS`
+> 1. Mini **Project x** using Microservices Architecture - `.SQLProj`, `Minimal API` with `Cache-Aside` Pattern using `Redis`, and `ASP.NET Core Razor Pages` to `AWS`
 > 1. Just enough `PowerShell` Crash Course
 > 1. Just enough `az cli` Crash Course
+> 1. Azure `Cloud Shell` Crash Course - 1 Hours
 > 1. `curl` and `Postman` Crash Course
 > 1. Data Access using `ADO.NET`, and `MS SQL Server` Crash Course
 > 1. Data Access using `Dapper`, and `MS SQL Server`  Crash Course

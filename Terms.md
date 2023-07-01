@@ -30,6 +30,10 @@
 | HTTP | HyperText Transfer Protocol |
 | HTTPS | HyperText Transfer Protocol Secure |
 | HSTS | HTTP Strict Transport Security |
+| IaaS | Infrastructure as a Service |
+| IIS | Internet Information Services |
+| IoT | Internet of Things |
+| HSM | Hardware Security Module |
 | IDE | Integrated Development Environment |
 | IP | Internet Protocol |
 | JSON | JavaScript Object Notation |
@@ -41,6 +45,7 @@
 | REST | Representational State Transfer |
 | OOCSS | Object Oriented CSS |
 | SMACSS | Scalable and Modular Architecture for CSS |
+| TLS | Transport Layer Security |
 | ITCSS | Inverted Triangle CSS |
 | ML | Machine Learning |
 | NLP | Natural Language Processing |
