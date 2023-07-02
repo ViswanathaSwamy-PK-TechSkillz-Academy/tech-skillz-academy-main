@@ -1,9 +1,34 @@
 # Terms
 
+## Terms in alphabetical order and its definition
+
 | Term | Definition |
 | -------- | ------- |
 | AES | Advanced Encryption Standard |
 | AI | Artificial Intelligence |
+| BCL | Base Class Library |
+| CLI | Command Line Interface |
+| CLR | Common Language Runtime |
+| CoreCLR | Core Common Language Runtime |
+| CoreFX | Core Framework |
+| GA | General Availability |
+| GAC | Global Assembly Cache |
+| GC | Garbage Collector |
+| JS | JavaScript |
+| JIT | Just In Time |
+| JSON | JavaScript Object Notation |
+| LINQ | Language Integrated Query |
+| LTS | Long Term Support |
+| MSIL | Microsoft Intermediate Language |
+| MVC | Model View Controller |
+| OOP | Object Oriented Programming |
+| ORM | Object Relational Mapping |
+| TS | TypeScript |
+
+## To be decided
+
+| Term | Definition |
+| -------- | ------- |
 | ANN | Artificial Neural Network |
 | API | Application Programming Interface |
 | BDD | Behaviour Driven Development |
