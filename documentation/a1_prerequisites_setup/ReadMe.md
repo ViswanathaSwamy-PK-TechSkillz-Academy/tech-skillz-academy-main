@@ -11,7 +11,7 @@
 > 1. Install PowerShell Core 7.3 or above
 > 1. Install .NET 6/7/8 SDKs
 > 1. Install Visual Studio Code
-> 1. Visual Studio Code Extensions (C#, PowerShell)
+> 1. Visual Studio Code Extensions
 > 1. Install Windows Terminal
 > 1. Install Git for Windows
 > 1. Install GitHub Desktop
@@ -57,9 +57,20 @@ dotnet --list-sdks
 
 ![Visual Studio Code |150x150](./images/VSCode.PNG)
 
-## 4. Visual Studio Code Extensions (C#, PowerShell)
+## 4. Visual Studio Code Extensions
 
-> 1. Discussion and Demo
+> 1. Please install the following extensions in Visual Studio Code
+>    - PowerShell
+>    - C#
+>    - MSBuild project tools
+
+| Extension ID | Extension Name | Description |
+| --- | --- | --- |
+| ms-vscode.powershell | PowerShell | Provides PowerShell language and debugging support for Visual Studio Code. |
+| ms-dotnettools.csharp | C# for Visual Studio Code (powered by OmniSharp) | C# editing support, including syntax highlighting, IntelliSense, Go To Definition, Find All References, debugging support for .NET, and support for csproj projects on Windows, macOS, and Linux. |
+| tintoy.msbuild-project-tools | MSBuild project tools | Provides IntelliSense for MSBuild project files, including autocomplete for < PackageReference > elements. |
+
+![Visual Studio Code Extensions |150x150](./images/VS_Code_Extensions.PNG)
 
 ## X. Install Windows Terminal
 
