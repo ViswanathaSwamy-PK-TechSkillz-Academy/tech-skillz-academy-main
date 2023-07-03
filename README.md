@@ -13,6 +13,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Monolith Architecture vs Microservices Architecture - Discussion - [To be done - `1 Hour(s)`]
 > 1. Azure Crash Course  - [To be done - `1 Hour(s)`]
 > 1. Mini **Project 1**  - Manual deployment of Minimal API  to Azure - [To be done - `1 Hour(s)`]
+> 1. Mini **Project 1-a**  - Integrating Static Html/CSS/JS Website with Minimal API - [To be done - `1 Hour(s)`]
 > 1. ASP.NET Core Razor Pages Crash Course - [To be done - `6 Hour(s)`]
 > 1. Mini **Project 2**  - Manual deployment of ASP.NET Core Razor Pages to Azure, and integrating with Minimal API - [To be done - `2 Hour(s)`]
 > 1. Mini **Project 3**  - Manual deployment of .SQLProj to Azure SQL Database - [To be done - `1 Hour(s)`]

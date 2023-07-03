@@ -4,6 +4,7 @@
 
 | Term | Definition |
 | -------- | ------- |
+| ADF | Azure Data Factory |
 | AES | Advanced Encryption Standard |
 | AI | Artificial Intelligence |
 | BCL | Base Class Library |
@@ -11,9 +12,13 @@
 | CLR | Common Language Runtime |
 | CoreCLR | Core Common Language Runtime |
 | CoreFX | Core Framework |
+| CQRS | Command Query Responsibility Segregation |
+| ETL | Extract Transform Load |
+| ELT | Extract Load Transform |
 | GA | General Availability |
 | GAC | Global Assembly Cache |
 | GC | Garbage Collector |
+| GPT | Generative Pre-trained Transformer |
 | JS | JavaScript |
 | JIT | Just In Time |
 | JSON | JavaScript Object Notation |
@@ -23,6 +28,8 @@
 | MVC | Model View Controller |
 | OOP | Object Oriented Programming |
 | ORM | Object Relational Mapping |
+| STS | Short Term Support |
+| SSIS | SQL Server Integration Services |
 | TS | TypeScript |
 
 ## To be decided
@@ -35,7 +42,6 @@
 | BEM | Block Element Modifier |
 | BEMIT | Block Element Modifier Inclusive and Targeted |
 | BEM | Block Element Modifier |
-| CQRS | Command Query Responsibility Segregation |
 | CD | Continuous Delivery |
 | CD | Continuous Deployment |
 | CLI | Command Line Interface |
