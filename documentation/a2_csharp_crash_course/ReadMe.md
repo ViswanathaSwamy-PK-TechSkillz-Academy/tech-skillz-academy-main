@@ -49,6 +49,9 @@ This is a crash course on C# programming language. This course is designed for p
 >    - Package Manager Console
 >    - .NET CLI `dotnet add package Microsoft.EntityFrameworkCore.SqlServer`
 >    - PowerShell `Install-Package Microsoft.EntityFrameworkCore.SqlServer`
+> 1. Getting Started with Debugging
+> 1. Implicit Usings
+> 1. obj/debug/net7.0/<ProjectName>.GlobalUsings.g.cs file
 
 ---
 
