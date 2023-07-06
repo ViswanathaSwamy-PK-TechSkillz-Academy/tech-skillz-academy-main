@@ -15,6 +15,7 @@
 | CQRS | Command Query Responsibility Segregation |
 | ETL | Extract Transform Load |
 | ELT | Extract Load Transform |
+| ESB | Enterprise Service Bus |
 | GA | General Availability |
 | GAC | Global Assembly Cache |
 | GC | Garbage Collector |
@@ -28,6 +29,7 @@
 | MVC | Model View Controller |
 | OOP | Object Oriented Programming |
 | ORM | Object Relational Mapping |
+| SOA | Service Oriented Architecture |
 | STS | Short Term Support |
 | SSIS | SQL Server Integration Services |
 | TS | TypeScript |
