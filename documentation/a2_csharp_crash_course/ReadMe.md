@@ -2,6 +2,24 @@
 
 This is a crash course on C# programming language. This course is designed for people who have some programming experience and want to learn C#.
 
+## Table of Contents
+
+> 1. What is .NET?
+> 1. .NET History
+> 1. .NET CLR basics
+> 1. C# Language
+> 1. Basic .NET CLI commands - Project Templates
+> 1. Few Terms
+> 1. `Global namespace imports` feature
+> 1. `File-scoped namespaces` feature
+> 1. Exploring Program Structure
+> 1. Console Application with and without Top Level Statements
+>    - 1.1 Without Top Level Statements
+>    - 1.2 With Top Level Statements
+> 1. Exploring Project Structure
+
+## Old Items
+
 > 1. What is .NET?
 > 1. .NET History
 > 1. .NET CLR basics
