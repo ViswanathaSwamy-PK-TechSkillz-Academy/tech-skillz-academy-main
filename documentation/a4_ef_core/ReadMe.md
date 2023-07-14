@@ -14,6 +14,11 @@ To be decided.
 >    - At runtime, EF Core will create a database for us with code
 >    - At design time, we can create a database from our data model using tools
 > 1. We can query the database using LINQ in two ways using LINQ Method Syntax and LINQ Query/Operator Syntax
+> 1. Execute vs Enumeration LINQ
+> 1. When will EF Core creates the parameterized SQL query?
+> 1. LINQ .Contains() method will translate into EF.Functions.Like(%abc%)
+> 1. EF Core Skip() and Take() methods will translate into OFFSET and FETCH
+> 1. EF Core will translate LINQ .Any() method into EXISTS
 
 ---
 
