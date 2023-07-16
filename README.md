@@ -5,7 +5,7 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 ## Agenda
 
 > 1. Pre-requisites and Setting up Development Environment - [`Progress`]
-> 1. C# Crash Course in .NET 6/7/8 - [Progress - `10 Hour(s)`]
+> 1. C# Fundamentals Crash Course in .NET 8 - [Progress - `10 Hour(s)`]
 > 1. C# Object Oriented Programming Crash Course - [To be done - `6 Hour(s)`]
 > 1. EF Core with In Memory, SQLite, CosmosDB Crash Course - [To be done - `6 Hour(s)`]
 > 1. Minimal API using EF Core, and In Memory database (Swagger included) - Only GetAll(), GetById() - [To be done - `4 Hour(s)`]
