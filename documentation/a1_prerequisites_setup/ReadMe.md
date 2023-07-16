@@ -95,3 +95,14 @@ dotnet --list-sdks
 ![GitHub Desktop |150x150](./images/GitHubDesktop.PNG)
 
 ---
+
+## X. To Do
+
+### X. VS Code Extensions
+
+> 1. ms-dotnettools.csharp
+> 1. ms-dotnettools.dotnet-interactive-vscode
+> 1. ms-toolsai.jupyter
+> 1. tintoy.msbuild-project-tools
+> 1. humao.rest-client
+> 1. icsharpcode.ilspy-vscode
