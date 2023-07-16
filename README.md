@@ -5,10 +5,10 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 ## Agenda
 
 > 1. Pre-requisites and Setting up Development Environment - [`Progress`]
-> 1. C# Fundamentals Crash Course in .NET 8 - [Progress - `10 Hour(s)`]
-> 1. C# Object Oriented Programming Crash Course - [To be done - `6 Hour(s)`]
-> 1. EF Core with In Memory, SQLite, CosmosDB Crash Course - [To be done - `6 Hour(s)`]
-> 1. Minimal API using EF Core, and In Memory database (Swagger included) - Only GetAll(), GetById() - [To be done - `4 Hour(s)`]
+> 1. [**C# `Fundamentals`**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-csharp) Crash Course in .NET 8 - [Progress - `10 Hour(s)`].
+> 1. [**C# `Object Oriented Programming`**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-oop-using-csharp) Crash Course - [To be done - `6 Hour(s)`]
+> 1. [**`EF Core` with In Memory, SQLite, CosmosDB**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-ef-core) Crash Course - [To be done - `6 Hour(s)`]
+> 1. [**`Minimal API` using EF Core, and In Memory database**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-minimal-api) (Swagger included) - Only GetAll(), GetById() - [To be done - `4 Hour(s)`]
 > 1. Writing .NET Console HTTP Client to consume Minimal API - [To be done - `1 Hour(s)`]
 > 1. Monolith Architecture vs Microservices Architecture - Discussion - [To be done - `1 Hour(s)`]
 > 1. Azure Crash Course  - [To be done - `1 Hour(s)`]
