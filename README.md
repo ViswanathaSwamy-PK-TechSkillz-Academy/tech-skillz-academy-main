@@ -4,11 +4,12 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 
 ## Agenda
 
-> 1. Pre-requisites and Setting up Development Environment - [`Progress`]
+> 1. Pre-requisites and Setting up Development Environment. Please refer the [**documentation**](./documentation/a1_prerequisites_setup/ReadMe.md)
 > 1. C# Fundamentals Crash Course in .NET 8 - [Progress - 10 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-csharp).
 > 1. C# Object Oriented Programming Crash Course - [To be done - 6 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-oop-using-csharp).
 > 1. EF Core with In Memory, SQLite, CosmosDB Crash Course - [To be done - 6 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-ef-core).
-> 1. Minimal API using EF Core, and In Memory database (Swagger included) - Only GetAll(), GetById() - [To be done - 4 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-minimal-api).
+> 1. Minimal API using EF Core, and In Memory database - Only GetAll(), GetById() - [To be done - 4 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-minimal-api).
+> 1. -----=====----- **To be decided** -----=====-----
 > 1. Writing .NET Console HTTP Client to consume Minimal API - [To be done - 1 Hour(s)]
 > 1. Monolith Architecture vs Microservices Architecture - Discussion - [To be done - 1 Hour(s)]
 > 1. Azure Crash Course  - [To be done - 1 Hour(s)]
@@ -19,7 +20,6 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. Mini **Project 3**  - Manual deployment of .SQLProj to Azure SQL Database - [To be done - 1 Hour(s)]
 > 1. Updating Minimal API to use Azure SQL Database - [To be done - 1 Hour(s)]
 > 1. Mini **Project 4** using Mono Repo - .SQLProj, Minimal API, and ASP.NET Razor Pages - Manual Deployment to Azure - [To be done - 2 Hour(s)]
-> 1. -----=====----- **To be decided** -----=====-----
 > 1. First steps into Microservices world; Splitting the Projects into its own Repositories
 > 1. Automated deployment of `.SQLProj` to `Azure SQL` Database using `GitHub Actions`
 > 1. Automated deployment of `Minimal API` to `Azure` using `GitHub Actions`
