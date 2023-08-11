@@ -69,6 +69,8 @@ dotnet --list-sdks
 | ms-vscode.powershell | PowerShell | Provides PowerShell language and debugging support for Visual Studio Code. |
 | ms-dotnettools.csharp | C# for Visual Studio Code (powered by OmniSharp) | C# editing support, including syntax highlighting, IntelliSense, Go To Definition, Find All References, debugging support for .NET, and support for csproj projects on Windows, macOS, and Linux. |
 | tintoy.msbuild-project-tools | MSBuild project tools | Provides IntelliSense for MSBuild project files, including autocomplete for < PackageReference > elements. |
+| ms-dotnettools.csharp | C# for Visual Studio Code | A Visual Studio Code extension that provides rich language support for C# and is shipped along with C# Dev Kit. Powered by a Language Server Protocol (LSP) server, this extension integrates with open source components like Roslyn and Razor to provide rich type information and a faster, more reliable C# experience. |
+| ms-dotnettools.csdevkit | C# Dev Kit for Visual Studio Code | C# Dev Kit helps you manage your code with a solution explorer and test your code with integrated unit test discovery and execution, elevating your C# development experience wherever you like to develop (Windows, macOS, Linux, and even in a Codespace). |
 
 ![Visual Studio Code Extensions |150x150](./images/VS_Code_Extensions.PNG)
 
