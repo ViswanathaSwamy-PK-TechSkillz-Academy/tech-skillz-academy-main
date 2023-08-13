@@ -8,8 +8,8 @@ This is the Main Repository for our Tech Skillz Academy Organization. This is th
 > 1. C# Fundamentals Crash Course in .NET 8 - [Progress - 10 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-csharp).
 > 1. C# Object Oriented Programming Crash Course - [To be done - 6 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-oop-using-csharp).
 > 1. EF Core with In Memory, SQLite, CosmosDB Crash Course - [To be done - 6 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-ef-core).
-> 1. Minimal API using EF Core, and In Memory database - Only GetAll(), GetById() - [To be done - 4 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-minimal-api).
 > 1. -----=====----- **To be decided** -----=====-----
+> 1. Minimal API using EF Core, and In Memory database - Only GetAll(), GetById() - [To be done - 4 Hour(s)]. Please refer the [**documentation**](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/learn-minimal-api).
 > 1. Writing .NET Console HTTP Client to consume Minimal API - [To be done - 1 Hour(s)]
 > 1. Monolith Architecture vs Microservices Architecture - Discussion - [To be done - 1 Hour(s)]
 > 1. Azure Crash Course  - [To be done - 1 Hour(s)]
