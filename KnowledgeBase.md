@@ -170,3 +170,17 @@ func main() {
 ```
 
 Overall, the & operator is commonly used for passing variables by reference and working with pointers, while new() is primarily used for dynamic memory allocation and initializing new instances of types. The choice between them depends on the specific requirements of your program and the intended use of pointers and dynamically allocated memory.
+
+## VS Code extension Commands
+
+> 1. List installed extensions.
+> 1. Install the specified extension.
+> 1. Uninstall the specified extension.
+
+```powershell
+code --list-extensions 
+code --install-extension <extension-id> 
+code --uninstall-extension <extension-id> 
+
+code --install-extension ms-dotnettools.csdevkit
+```
