@@ -184,3 +184,11 @@ code --uninstall-extension <extension-id>
 
 code --install-extension ms-dotnettools.csdevkit
 ```
+
+## .NET `dotnet` Commands
+
+```powershell
+dotnet --list-sdks
+dotnet --list-runtimes
+dotnet --info
+```
