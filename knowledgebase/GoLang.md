@@ -2,14 +2,14 @@
 
 This document contains the Knowledge Base from `Go Lang`.
 
-**Reference(s):**
-
-> 1. <https://www.markdownguide.org/basic-syntax/>
-
 ## Topics
 
 > 1. [What is the difference in `&` operator VS `new(string)` in golang?](#1-what-is-the-difference-in--operator-vs-newstring-in-golang)
 > 1. [Default `nil` value for variables](#2-default-nil-value-for-variables)
+
+## Reference(s)
+
+> 1. <https://www.markdownguide.org/basic-syntax/>
 
 ## 1. What is the difference in `&` operator VS `new(string)` in golang?
 
