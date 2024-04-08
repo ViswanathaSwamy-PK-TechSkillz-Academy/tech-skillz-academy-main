@@ -1,4 +1,4 @@
-# Knowledge Base
+# `Golang` Knowledge Base
 
 This document contains the Knowledge Base from `Go Lang`.
 
