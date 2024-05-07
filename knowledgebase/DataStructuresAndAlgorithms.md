@@ -97,3 +97,65 @@ Source: Conversation with Bing, 5/7/2024
 (15) github.com. <https://github.com/shamim-ahmed/algocasts-udemy/tree/c135a757d92077d3af3a2126b2b1c90e9b31eb21/exercises%2Fsorting%2Findex.js>.
 (16) github.com. <https://github.com/ShivarajaHM/javascript/tree/790ecd67e1d9fcf2e774e8f9a6fd92e17b03cf91/Utility%2Futility.js>.
 (17) github.com. <https://github.com/ChronisYan/Algorithms-Data-Structures/tree/b27685e0a612b3ff68a58407633e3f6a29d9e108/javascript%2Falgorithms%2Fsorting.js>.
+
+Certainly! Let's break down the time complexities and provide concise notes for each of these common notations:
+
+1. **O(1) (Constant Time)**:
+   - **Definition**: An algorithm has constant time complexity if its execution time remains the same regardless of the input size.
+   - **Notes**: Algorithms with O(1) complexity are highly efficient. Examples include accessing an element in an array by index or performing basic arithmetic operations.
+   - **JavaScript Example**:
+
+     ```javascript
+     function add(a, b) {
+         return a + b; // O(1)
+     }
+     ```
+
+2. **O(log n) (Logarithmic Time)**:
+   - **Definition**: An algorithm has logarithmic time complexity if its execution time grows logarithmically with the input size.
+   - **Notes**: Efficient algorithms like binary search fall into this category. Each step reduces the search space by half.
+   - **JavaScript Example**:
+
+     ```javascript
+     function binarySearch(arr, target) {
+         // Implementation provided earlier (O(log n))
+     }
+     ```
+
+3. **O(n) (Linear Time)**:
+   - **Definition**: An algorithm has linear time complexity if its execution time scales linearly with the input size.
+   - **Notes**: Linear search and iterating through an array are examples of O(n) operations.
+   - **JavaScript Example**:
+
+     ```javascript
+     function linearSearch(arr, target) {
+         // Implementation provided earlier (O(n))
+     }
+     ```
+
+4. **O(n^2) (Quadratic Time)**:
+   - **Definition**: An algorithm has quadratic time complexity if its execution time grows quadratically with the input size.
+   - **Notes**: Nested loops often lead to O(n^2) complexity. Examples include bubble sort and selection sort.
+   - **JavaScript Example**:
+
+     ```javascript
+     function bubbleSort(arr) {
+         const n = arr.length;
+         for (let i = 0; i < n; i++) {
+             for (let j = 0; j < n - i - 1; j++) {
+                 if (arr[j] > arr[j + 1]) {
+                     [arr[j], arr[j + 1]] = [arr[j + 1], arr[j]];
+                 }
+             }
+         }
+         return arr; // O(n^2)
+     }
+     ```
+
+Remember that understanding these notations helps us analyze and choose the most efficient algorithms for different scenarios. Feel free to incorporate these notes into your teaching materials! 📚👨‍🏫🚀
+
+If you need further clarification or additional examples, feel free to ask! 😊
+
+Source: Conversation with Bing, 5/7/2024
+(1) github.com. <https://github.com/LiamFosterLFF/algorithm-visualization/tree/b9d1ff99f429357c5f5f4753d8eb0023e4c3bc25/src%2FComponents%2FSorting%2Futilities%2FbarChartFunctions.js>.
+(2) github.com. <https://github.com/RyanL123/ICS4U0/tree/e9de40f6ffa791402b9c4cc0800e8533c0971da7/Algorithms%2Fsort.js>.
